@@ -85,13 +85,15 @@
         "f": "fibrous",
         "g": "grooves",
         "y": "scaly",
-        "s": "smooth"
+        "s": "smooth",
+        "k": "silky"
     },
     "stalk-surface-below-ring": {
         "f": "fibrous",
         "g": "grooves",
         "y": "scaly",
-        "s": "smooth"
+        "s": "smooth",
+        "k": "silky"
     },
     "stalk-color-above-ring": {
         "n": "brown",
