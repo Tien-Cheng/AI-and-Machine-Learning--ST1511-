@@ -1,7 +1,6 @@
 import pandas as pd     
 import matplotlib.pyplot as plt #
 import seaborn as sns
-
 from typing import  List, Union, Tuple
 Series = pd.core.frame.Series 
 DataFrame = pd.core.frame.DataFrame # define type alias
